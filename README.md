@@ -23,8 +23,8 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ## UML Diagrams:
 ```
-Designed by:KOWSALYA M
-Register No: 212222230069
+Designed by: KRISHNA PRAKAASH D M 
+Register No: 212221230052
 ```
 ### USECASE DIAGRAM:
 ![LIB1](https://github.com/Kowsalyasathya/Library-Management/assets/118671457/b2421b6f-e9fa-48aa-9bd1-19ec9c4b04d8)
